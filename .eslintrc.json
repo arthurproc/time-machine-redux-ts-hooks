@@ -4,8 +4,7 @@
     {
       "files": ["**/*.ts", "**/*.tsx"],
       "rules": {
-        "no-magic-numbers": "off",
-        "no-non-null-assertion": "off"
+        "no-magic-numbers": "off"
       }
     }
   ]
